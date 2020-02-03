@@ -10,7 +10,7 @@ body{
 a:hover, a:focus{
     text-decoration: none;
 }
-
+.white {color: #FFF;}
 .airheaderbg{background-image: url("../images/flightbg.jpg");
     width: 100%;
     background-repeat: no-repeat;background-size: cover;background-attachment: fixed;
@@ -379,22 +379,21 @@ margin-bottom: 2px;
 /*mwing dialog box end*/
 /*acs home page style end*/
 
-
-
-
-
 /*home view page style*/
 .acshomelogo{margin: 60px 0 35px;}
 .acshome{text-align: center;}
 .acshomespace{display: inline-block;width: 6%;}
 .pcsec, .acsec{background-color: #262761;padding: 13px;display: inline-block;    z-index: 999;}
 .pcimgsec,.acimgsec{background-color: #fff;padding: 8px;margin-bottom: 15px;}
+
+.pccontent a, .accontent a {color: #FFF; border-bottom: dotted 1px #CCC;}
+
 .acsdetail p{color: #fff;
     font-size: 23px;
     line-height: 37px;
     letter-spacing: 4px;margin-top: 28px;   }
     .acshomebtnsec{    margin: 50px 0px 50px;}
-.acshomebookbtn{
+a.acshomebookbtn{
     background: transparent;
     color: #fff;
     border: 2px solid #fff;
@@ -404,12 +403,12 @@ margin-bottom: 2px;
     text-transform: uppercase;
     letter-spacing: 2px;font-weight: 600;
 }
-.acshomebookbtn:focus, .acshomebookbtn:hover {
+a.acshomebookbtn:focus, a.acshomebookbtn:hover {
     text-decoration: none;
     background: #fff;
     color: #262761;font-weight: 600;
 }
-.achomebtn:focus, .achomebtn:hover{
+a.achomebtn:focus, a.achomebtn:hover{
      text-decoration: none;
     background: #fff;
     color: #de1f26;font-weight: 600;
@@ -423,8 +422,8 @@ margin-bottom: 2px;
    color: #fff;
     font-size: 24px;
     line-height: 40px;
-    letter-spacing: 2px;
-    margin-top: 14px; font-weight: 600;}
+    /*letter-spacing: 2px;*/
+    margin-top: 14px; font-weight: 400;}
    .pcindeximgbg{background-color: #fff;padding:6px;} 
    .pcindexsec{  padding: 15px;width: 100%; }
 .pcindexleft{float: left;
@@ -443,6 +442,9 @@ margin-bottom: 2px;
     .acslogohome{    margin: 63px 0px 35px;}
     .pcindexright{    margin: 81px 0px 0px;}
     .acshomecounter{margin-top: 70px !important;}
+
+div#phonecall {position: fixed; right: 40px; top: 80px; background-color: rgba(255,255,255,0.7); padding: 10px 20px; color: #000; border: double 5px #369; border-radius: 5px; font-size: 1.4em;z-index: 999; }
+
 /*home view page style end*/
 /*ewings homepage style*/
 .ewingsbg{

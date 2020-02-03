@@ -9380,7 +9380,13 @@ blockquote.pull-right {
     background-color: #444;
     color: #FFF;
     border-radius: 2px
-}
+    }
+    .highlight1 {
+    padding: 2px 5px;
+    background-color:transparent !important;
+    color: #FFF;margin-left: 7px; margin-top: 12px;
+    border-radius: 2px;
+    }
 
 .top-advert {
     float: right;
@@ -22154,4 +22160,10 @@ ul.switcher-op-selectors li img {
 .acshomecounter{
     width: 1000px;
     margin: 0 auto;
+}
+
+@media screen and (max-width:768px) { 
+ p.float1{bottom:0px !important; right: 136px !important; color: #fff !important;}  
+ .float{bottom:0px !important; right: 33px !important;}
+    
 }
