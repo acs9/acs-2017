@@ -1,0 +1,19 @@
+user-agent: *
+Allow:/
+Disallow:/cpanel
+Disallow:/cgi-bin/
+
+User-agent: Web Downloader
+Disallow: /
+ 
+User-agent: WebCopier
+Disallow: /
+ 
+User-agent: Offline Explorer Pro
+Disallow: /
+
+User-agent: Offline Commander
+Disallow: /
+
+User-agent:* Bingbot	
+Allow:/
