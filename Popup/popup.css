@@ -1,0 +1,46 @@
+#backgroundPopup {
+    display:none;
+    position:fixed;
+    _position:absolute; /* hack for internet explorer 6*/
+    height:100%;
+    width:100%;
+    top:0;
+    left:0;
+    background:#000000;
+    border:1px solid #cecece;
+    z-index:1;
+}
+#popupContact { margin:0 auto; text-align:center;
+    display:none;
+    position:fixed;
+    _position:absolute; /* hack for internet explorer 6*/
+    /*height:384px;*/
+width:auto;
+    height:auto;
+    _width:auto;
+    _height:auto;
+    background:url(../images/loading.gif) no-repeat 50% 50% #fff;
+    border:0px;
+    padding:10px;
+    z-index:2;
+    overflow:hidden;
+}
+#popupContactClose {
+    font-size:15px;
+    line-height:14px;
+    right:3px;
+    _right:120px;
+    top:0;
+    position:absolute;
+    color:#f00;
+    /*color:#88d415;*/
+font-weight:700; background:#fff; padding:10px;
+    display:block;
+    cursor:pointer;
+    z-index: 10;
+}
+a#popupContactClose {
+    text-decoration:none;
+        color:#4d4d4d;
+
+}

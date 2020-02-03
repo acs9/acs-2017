@@ -1,0 +1,278 @@
+
+@media (max-width:1199px){
+.acsfacilitydetail1 img, .acsfacilitydetail3 img{    width: 325px;}
+.acsfacilitydetail2 img{    width: 340px;}
+.facdetailsec h3 {font-size: 16px;padding: 0px;}
+.facdetailsec p {font-size: 14px;line-height: 21px;}
+.af2 h3{margin-top: -35px;}
+.aclogo{   padding: 0 !important;}
+.hederbookbtn {    font-size: 12px;}
+.acsmenuitem{padding: 0px 0px !important;}
+.acheadsec {margin-left: 24px !important;}
+.formheading h3:after {right: 21%;}
+.formheading h3:before {left: 21%;}
+.acsmap{width: 359px;} 
+.acmenuitem {
+    padding: 0px 7px;
+    margin-right: 0px;
+}
+.pcindex, .acshomecounter, .achomedilog  {width:938px !important;}
+.achomecounter1 {
+margin-left:15px !important;
+}
+.acshomecounter {    overflow: visible !important;}
+}
+
+@media (max-width:991px){
+    #mwing p span, #ewing p span{display: none !important;}
+    #ewing, #mwing{width:200px !important;}
+     #ewing{left: 297.5px !important;}
+    /* .navbar-brand {padding: 15px 1px;}*/
+.navbar-brand>img {width: 213px;height: 50px;}
+/*.navbar-default .navbar-nav>li>a {font-size: 14px;padding: 14px 16px;}*/
+.efacilitydetail1 img, .efacilitydetail2 img{width: 259px;}
+.efacilitydetail3 img{width: 223px;}
+.ef1 {padding: 50px 42px 5px 26px;}
+.efacdetailsec h3 {font-size: 18px;}
+.efacdetailsec p {font-size: 13px;}
+.ef2 {padding: 50px 48px 5px 29px;}
+.ef3 {padding: 50px 25px 33px 28px;}
+.acsfacilitydetail1 img, .acsfacilitydetail3 img {width: 250px;}
+.acsfacilitydetail2 img {width: 270px;}
+.facdetailsec {   padding: 38px 20px;}
+.facdetailsec h3 {font-size: 13px; margin-bottom: 0px;line-height: 18px;}
+.facdetailsec p {    font-size: 12px;margin-top: 11px;line-height: 20px;}
+
+.mdialogbox {width: 650px;}
+.aclogo {float: none;margin: 4px auto 0px !important;width: 100%;text-align: center;}
+.aclogo img{    width: auto;height: auto;}
+.acheadsec {margin-left: 0px !important;}
+.acsmenuitem {padding: 0px 10px !important;}
+.booknowbanner, .sosnub {width: 100%;}
+.formheading h3:after {right: 18%;}
+.formheading h3:before {left: 18%;}
+.bannercontent {bottom: 19px;right: 74px;}
+.gallery ul li{    width: 136px;}
+#content {    width: 717px !important;}
+.accountersec {padding: 11px !important;margin-left: 13px !important;}
+.footeracsinfo p{padding: 0;}
+.footeracsinfo img{width: 211px;height: 50px;}
+.footeracslinks, .footercontact{padding-left: 0px;}
+.footeracsinfo p, .footeracsinfo p, .footercontact p{font-size: 13px !important;}
+.acsmap{width: 267px;height: 287px;} 
+.acmenuitem {
+    padding: 0px 0px;
+}
+.pcindex, .acshomecounter, .achomedilog {
+    width: 718px !important;
+}
+.pcindexright p {
+    font-size: 20px;
+    line-height: 36px;
+    letter-spacing: 3px;
+}
+.achomecounter {
+width: 22% !Important;
+    padding: 18px !Important;
+}
+.counter.counter-lined+h5:before {
+    margin: 20px auto 21px;
+}
+}
+
+@media (max-width:960px){
+     #ewing{left: 256.5px !important;}
+     #mwing{left: 456.5px !important;}
+} 
+@media (max-width:959px){
+     .hederbookbtn{display: none;}
+     .acheadsec{width: 100%;}
+        .aclogo {top: -44px;}
+        .acsheader li>ul {margin-left: 3px !important;margin-right: 3px !important;}
+    .mobileheder {top: 0px;}   
+.nav-lock-scroll {overflow: auto !important;}
+.eaboutbanner img{    margin-top: 50px;}
+.acssmmenu{display: block !important;}
+.mdialogbox{margin-top: 81px;}
+.fleetmainheading{margin-top: 80px;}
+.craft-sec{margin-top: 0px;}
+.homeacs {
+    margin-top: 72px;
+}
+} 
+
+@media (max-width:767px){
+    .acshomecounter {margin-top: 40px !important;}
+     .navbar-toggle {margin-top: 27px;}
+.navbar-default .navbar-toggle .icon-bar {background-color: #afafaf;}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {background-color: #27235e;}
+.navbar-default .navbar-toggle:focus .navbar-default .navbar-toggle .icon-bar{background-color: #fff !important;}
+.navbar-default .navbar-toggle {border-color: #27235e;}
+.efacilitydetail1 img, .efacilitydetail2 img{width: 192px;}
+.efacilitydetail3 img{width: 174px;}
+.efacdetailsec p {display: none;}
+.efacdetailsec h3 {font-size: 21px;letter-spacing: 1px;}
+.ef3 {padding: 50px 25px 33px 40px;}
+.copyrightsecinfo h4, .ecopyrightsecinfo h4 {font-size: 13px;}
+.acsfacilitydetail1 img, .acsfacilitydetail3 img {width: 200px;}
+.acsfacilitydetail2 img {width: 220px;}
+.facdetailsec p {display: none;}
+.facdetailsec {padding: 47px 24px;}
+.facdetailsec h3 {font-size: 15px;line-height: 25px;}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {border-color: #27235e;background-color:  #27235e;}
+.navbar-default .navbar-nav>li>a {color: #ffffff;}
+.mdialogbox {width: auto;}
+.bookbtnsec {padding: 3px 0px 41px;}
+.submenu{margin-top: -50px;margin-left: 147px;}
+.headermenu .nav>li {text-align: left;}
+.navbar-default .navbar-nav .open .dropdown-menu>li>a {color: #fff;}
+.navbar-default .navbar-nav .open .dropdown-menu>li>a:focus, .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
+    color: #fff;}
+    .dropdown-submenu>.dropdown-menu {margin-left: 0;border-top: 1px solid #fff !important;border-radius: 0;}
+    .pcimgsec img, .acimgsec img{width: 232px;}
+    .acshomespace{width: 2%;}
+    .formheading h3:before, .formheading h3:after {width: 70px;}
+    .formdetails {width: 50%;}
+    .fleet-text h4 {margin-top: 20px;}
+    .plane-icon {margin-bottom: 14px;}
+    .sbleft{margin-top: 30px;}
+    #content {    width: auto !important;}
+.accountersec {    width: 94% !Important;margin-bottom: 20px;}
+.counterdetail{margin: 15px;}
+.acsmap{width: 100%;} 
+.contactsecdesc {
+    padding-right: 15px;
+}
+
+.footeracsinfo, .footeracslinks{margin-bottom: 20px;}
+.footeracslinks h4{margin-left: 0;margin-bottom: 13px;font-size: 15px;}
+.footeracslinks ul{margin-bottom: 13px;}
+.footeracslinks ul{padding-left: 0px;}
+.footersec {padding-bottom:9px;}
+.footeracsinfo img{width: auto;height: auto;}
+.footercontact h4{font-size: 15px;}
+.pcindex, .acshomecounter, .achomedilog { width: auto !Important;}
+.pcindexsec {    text-align: center !Important;}
+.pcindexleft {float: none; width: auto;margin-left: 0px;}
+.pcindexright {    width: 100%;}
+.achomecounter {width: 100% !Important;    margin-left: 0px !important;margin-bottom: 20px;}
+.achomecounter1 {margin-left: 0px !important;}
+.pchome {    margin-top: 40px;    margin-bottom: 40px;}
+.achome {    margin-bottom: 40px;}
+.achomedilog { margin: 40px auto 40px;}
+.acshomelogo {margin: 37px 0 29px;}
+    .homedilogtext {padding: 22px 12px 20px;}
+    .homedilogtext p {font-size: 14px;line-height: 25px;text-align: justify;}
+    .achomecounter {padding: 12px !Important;}
+    .aboutdetail {
+    margin: 30px 0px 0px;
+}
+.booksubmitbtn {margin: 7px 0px 12px;}
+.mdialogbox {margin-bottom: 21px;}
+.ewingfaclity {
+    margin-top: 0px;
+}
+  .acsfacilitydetail1 img, .acsfacilitydetail3 img {width: 159px;}
+.acsfacilitydetail2 img {width: 171px;}
+.facdetailsec h3 {font-size: 12px;line-height: 24px;}
+.af1, .af2, .af3{padding:23px; }
+.homespace{display: none;}
+.homepc, .homeac{margin-bottom: 20px;}
+.thnakdesc h1 {    font-size: 21px;line-height: 27px;}
+}
+
+@media (max-width:600px){
+  
+
+
+.acshomespace{display: none;}
+.pcsec{margin-bottom: 25px;}
+/*.mdialogbox { width: 400px;}*/
+.bannercontent p {line-height: 24px;font-size: 16px;padding: 10px 18px;}
+.sossec1 img {width: 50px;height: 50px;}
+.sossec1 p {font-size: 12px; letter-spacing: 1.1px;line-height: 18px;}
+.formheading h3 span {font-size: 16px;}
+.booksubmitbtn {padding: 9px 43px;}
+
+}
+@media (max-width:560px){
+    .footerleftimg img, .efooterleftimg img{width: 100px;}
+    .footerrightimg img, .efooterrightimg img{width: 50px;}
+    .footerrightimg, .efooterrightimg {margin-top: 0px;}
+    .footerleftimg, .efooterleftimg {margin-left: 17px;}
+    .footerrightimg, .efooterrightimg {margin-right: 17px;}
+    .eimglg{display: none;}
+    .eimgsm{display: block;    width: 77% !important;display: inline-block;}
+    .efacility {margin-left: 15px;margin-right: 15px;}
+    .efacility1, .efacility2, .efacility3 {width: 100%;margin-right: 0px;    margin-bottom: 26px;}
+    .efacility3 {margin-left:0px;}
+    .efacility1{margin-bottom: 41px;}
+    .efacdetailsec {width: 100%;padding: 150px 169px!important;}
+   .efacdetailsec h3 {font-size: 25px;line-height: 58px;}
+   .aboutdetail p {font-size: 15px;}
+   .formdetails { width: 70%;}
+}
+@media (max-width: 510px){
+.efacdetailsec {padding: 126px !important;}
+.bannercontent p {line-height: 20px;font-size: 12px;padding: 4px 15px;}
+.bannercontent {bottom: 0px;right: 20px;}
+.formheading h3:before {left: 11%;}
+.formheading h3:after {right: 11%;}
+.homecountersec{padding-left: 15px;padding-right: 15px;}
+}
+@media (max-width: 479px){
+.accountersec { width: 91% !Important;}
+}
+@media (max-width: 460px){
+.efacdetailsec {padding: 100px !important;}
+.acsdetail p {font-size: 19px;}
+.acshomebookbtn {padding: 10px 9px;}
+.acsfacilitydetail1 img, .acsfacilitydetail2 img, .acsfacilitydetail3 img {width: 296px;}
+.af1, .af2, .af3{padding: 61px 29px;}
+.facdetailsec h3 {font-size: 18px;line-height: 33px;}
+.acsfacility1 {margin-right: 0;}
+.acsfacility3 {margin-left:0px;}
+.acsfacility1, .acsfacility2, .acsfacility3 {margin-bottom: 15px;}
+.acsfacility, .efacility {margin-top:0px;}
+/*.mdialogbox {width: 272px;}*/
+.mdilogtext {padding: 20px 7px 0px;}
+.bookbtnsec {padding: 3px 0px 27px;}
+.acssmbtn {display: none;}
+.mobilelogo{text-align: left;}
+.aclogo {text-align: left;padding-left: 15px !important;}
+.booksubmitbtn {padding: 6px 30px;font-size: 14px;}
+}
+@media (max-width: 425px){
+.af1, .af2, .af3 {padding: 61px 67px;}
+
+.af1, .af2, .af3 {padding: 61px 67px;}
+
+.sosicon {width: 50%;margin-bottom: 23px;}
+.sosnub h3 { font-size: 16px;margin-bottom: 12px;margin-top: 12px;}
+.bannercontent p {line-height: 16px;font-size: 10px;padding: 4px 11px;}
+.formheading h3:before, .formheading h3:after {width: 60px;top: 33px;}
+.formheading h3:before {left: 6%;}
+.formheading h3:after {right: 6%;}
+.formheading h3 span {font-size: 14px;}
+.formdetails form .form-control {height: 38px;}
+
+.formdetails { width: 78%;}
+.fleetmainheading {font-size: 22px;}
+.craft-sec {margin-bottom: 39px;}
+.fleetdesc{font-size: 15px;}
+.mobilelogo2 {display: block !important;}
+.mobilelogo1 {display: none !important;}
+.acsheader > .mobilelogo2{    margin-top: -42px;}
+}
+@media (max-width: 374px){
+   .formheading h3:before {left: 1%;}
+.formheading h3:after {right: 1%;} 
+.gallery ul li {width: 100px; height: 100px;}
+
+}
+@media (max-width: 345px){
+    .pccontent, .accontent {
+        width:290px;
+}
+.hompcimg img, .homacimg img{width:290px;}
+}
